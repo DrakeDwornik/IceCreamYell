@@ -22,7 +22,7 @@ Things to Consider before starting
 
 You might wish to use some functions from https://docs.python.org/3/library/statistics.html
 
-#File Notes
+# File Notes
 This page shows an example of a multinomial logistic regression analysis with footnotes explaining the output. The data were collected on 200 high school students and are scores on various tests, including a video game and a puzzle. The outcome measure in this analysis is the student’s favorite flavor of ice cream – vanilla, chocolate or strawberry- from which we are going to see what relationships exists with video game scores (**video**), puzzle scores (**puzzle**) and gender (**female**). 
 
 |**Variable Name**|**Variable**|**Data type|
