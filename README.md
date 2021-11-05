@@ -34,4 +34,5 @@ This page shows an example of a multinomial logistic regression analysis with fo
 |**puzzle**|Score on the puzzle|Scale/Continuous|
 
 **ice_cream** is the **dependent** variable (the **predicted** variable).
+
 **female**, **video** and **puzzle** are the independent variables (the **predictors**).

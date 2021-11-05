@@ -15,3 +15,5 @@ replace: `'\2':\1\2\3`
 4. add outermost `{}`
 
 5. pretty print in PyCharm
+
+6. undo step 3
